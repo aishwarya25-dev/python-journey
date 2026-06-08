@@ -12,6 +12,7 @@ while True:
 
     choice = input("Enter your choice: ")
 
+    # match-case is a control statement in Python that checks a value against multiple patterns and executes the code for the first matching case.
     match choice:
 
         case "1":
@@ -36,5 +37,6 @@ while True:
             print("Thank you !!")
             break
 
+        # Default case:
         case _:
             print("Invalid choice..")
