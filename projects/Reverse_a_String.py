@@ -14,5 +14,11 @@ for char in string:
     reversed_text = char + reversed_text
 
 print(reversed_text)
+
+# 4 using StringBuilder()
+String str = "Hello";
+String reversed = new StringBuilder(str).reverse().toString();
+
+System.out.println(reversed);
     
 
