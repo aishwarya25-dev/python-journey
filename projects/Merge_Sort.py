@@ -1,4 +1,4 @@
-#Merge Sort
+# Merge Sort : Merge Sort is a sorting algorithm that divides an array into smaller parts, sorts them, and then merges them back in order.
 
 def merge_sort(array):
     if len(array) <= 1:
