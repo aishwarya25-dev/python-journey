@@ -1,3 +1,5 @@
+# BMI Calculator
+
 import streamlit as st
 
 st.title("BMI CALCULATOR")
