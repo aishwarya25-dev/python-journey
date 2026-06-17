@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-Learning-blue)
+![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python)
 # python-journey
 Author : Aishwarya ♡
 <br><hr>
